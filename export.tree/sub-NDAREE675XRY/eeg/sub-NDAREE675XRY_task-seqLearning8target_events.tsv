@@ -1,0 +1,24 @@
+onset	duration	sample	value	event_code	target_count
+0	n/a	0	break cnt	break cnt	8
+35.636	n/a	17818	seqLearning_start	91	8
+41.902	n/a	20951	learningBlock_1	31	8
+41.934	n/a	20967	dot_no1_ON	11	8
+42.524	n/a	21262	dot_no1_OFF	21	8
+43.842	n/a	21921	dot_no6_ON	16	8
+44.422	n/a	22211	dot_no6_OFF	26	8
+45.742	n/a	22871	dot_no4_ON	14	8
+46.322	n/a	23161	dot_no4_OFF	24	8
+47.642	n/a	23821	dot_no2_ON	12	8
+48.222	n/a	24111	dot_no2_OFF	22	8
+49.542	n/a	24771	dot_no7_ON	17	8
+50.122	n/a	25061	dot_no7_OFF	27	8
+51.442	n/a	25721	dot_no3_ON	13	8
+52.022	n/a	26011	dot_no3_OFF	23	8
+53.342	n/a	26671	dot_no8_ON	18	8
+53.922	n/a	26961	dot_no8_OFF	28	8
+55.242	n/a	27621	dot_no5_ON	15	8
+55.822	n/a	27911	dot_no5_OFF	25	8
+57.142	n/a	28571	dot_no2_ON	12	8
+57.724	n/a	28862	dot_no2_OFF	22	8
+59.042	n/a	29521	dot_no7_ON	17	8
+59.622	n/a	29811	dot_no7_OFF	27	8

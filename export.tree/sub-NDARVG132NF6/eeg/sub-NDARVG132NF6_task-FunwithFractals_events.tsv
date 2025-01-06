@@ -1,0 +1,5 @@
+onset	duration	sample	value	event_code
+0	n/a	0	9999	9999
+4.56	n/a	2280	video_start	82
+167.55	n/a	83775	video_stop	102
+168.091	n/a	84045.5	boundary	boundary
